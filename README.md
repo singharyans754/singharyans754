@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently an Engineering student at Invertis University, Bareilly.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
-- 👨‍💻 All of my projects are available at [aryansksingh.tech](https://aryansksingh.tech)
+- 👨‍💻 All of my projects are available at [aryansingh.live](https://aryansingh.live/)
 
 - 📫 How to reach me **singharyans754@gmail.com**
 
