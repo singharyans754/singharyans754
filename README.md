@@ -5,6 +5,7 @@
 - 👨‍💻 All of my projects are available at [aryansingh.live](https://aryansingh.live/)
 
 - 📫 How to reach me **singharyans754@gmail.com**
+- 📫 How to reach me **crown2code@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZjUV5634OTxB_TZSIjFsnjz0y5ji_Rdq/view](https://drive.google.com/file/d/1ZjUV5634OTxB_TZSIjFsnjz0y5ji_Rdq/view)
 
