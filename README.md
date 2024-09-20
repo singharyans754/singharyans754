@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **singharyans754@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RRzzqZsnLFR559J_1k5ql7bxspihU4Vd/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RRzzqZsnLFR559J_1k5ql7bxspihU4Vd/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Funny...**
 
