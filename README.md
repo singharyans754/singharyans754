@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">I'm currently an Engineering student at Invertis University, Bareilly.</h3>
+<h3 align="center">Associate Technical Consultant (MS Dynamics 365) at Acxiom Consulting, Noida.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
 - 👨‍💻 All of my projects are available at [Website](https://singharyans754.github.io/aryansingh.live/)
