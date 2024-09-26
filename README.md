@@ -5,6 +5,7 @@
 - 👨‍💻 All of my projects are available at [Website](https://singharyans754.github.io/aryansingh.live/)
 
 - 📫 How to reach me **singharyans754@gmail.com**
+- 📫 How to reach me **crown2code@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RRzzqZsnLFR559J_1k5ql7bxspihU4Vd/view?usp=sharing)
 
